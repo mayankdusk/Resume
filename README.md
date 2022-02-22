@@ -1,2 +1,2 @@
-resume
-this is responsive resume 
+Resume using html and css 
+
